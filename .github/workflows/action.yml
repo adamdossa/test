@@ -1,0 +1,3 @@
+              - name: Fast Forward PR
+                uses: endre-spotlab/fast-forward-js-action@2.1
+            

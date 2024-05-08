@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         # Basic use case example
-        - name: Fast Forward PR
+          name: Fast Forward PR
           id: ff-action
           uses:  ./
           with:
